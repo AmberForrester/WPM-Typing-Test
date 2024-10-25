@@ -42,7 +42,7 @@
 <br />
 A good understanding of Python and Pygame would be beneficial to helping you create this project. However, it is always good practice to refer to the Documentation available when developing ***any*** project. 
 
-_Please refer to the [Python Documentation](https://docs.python.org/3/)for your reference._
+_Please refer to the [Python Documentation](https://docs.python.org/3/) for your reference._
 
 _The standard shell of Python, or REPL (Read-Eval-Print Loop) allows you to run Python code interactively as you work on a project or are in the process of learning this programming language. You may find it useful to vist the [Getting the Most Out of the Python Standard REPL website](https://realpython.com/python-repl/) to further your understanding and produce better results._
 
@@ -107,7 +107,9 @@ Once you've cloned the project and installed Python, follow these steps to run t
 ## How the Test Works
 > [!Note] 
 > **Words Per Minute (WPM):** Your typing speed is calculated based on the total number of characters typed (including mistakes). The WPM is updated in real-time as you type. <br>
+
 > **Errors:** Incorrect characters are highlighted in red, and the error count is displayed. <br>
+
 > **Completion:** When you finish typing the entire sentence or paragraph correctly, the test ends and your final WPM and error count are displayed. <br>
 
 # Example Output
