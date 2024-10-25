@@ -1,0 +1,5 @@
+Hello world my name is Amber and I am a passionate full stack developer!
+This is another test block of text I created for this project!
+You can use a txt file to create random text for your wpm speed test.
+By providing lines of different text, change it up for the user.
+The quick brown fox jumps over the lazy dog.
