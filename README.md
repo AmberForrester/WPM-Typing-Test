@@ -105,10 +105,12 @@ Once you've cloned the project and installed Python, follow these steps to run t
 
 
 ## How the Test Works
-> [!Note] 
-> **Words Per Minute (WPM):** Your typing speed is calculated based on the total number of characters typed (including mistakes). The WPM is updated in real-time as you type. </br>
-> **Errors:** Incorrect characters are highlighted in red, and the error count is displayed. </br>
-> **Completion:** When you finish typing the entire sentence or paragraph correctly, the test ends and your final WPM and error count are displayed. </br>
+
+- **Words Per Minute (WPM):** Your typing speed is calculated based on the total number of characters typed (including mistakes). The WPM is updated in real-time as you type. </br>
+
+- **Errors:** Incorrect characters are highlighted in red, and the error count is displayed. </br>
+
+- **Completion:** When you finish typing the entire sentence or paragraph correctly, the test ends and your final WPM and error count are displayed. </br>
 
 # Example Output
 ```vbnet
